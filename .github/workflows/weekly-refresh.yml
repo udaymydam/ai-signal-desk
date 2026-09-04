@@ -1,0 +1,25 @@
+name: Refresh AI Signal Desk
+
+on:
+  schedule:
+    # Friday morning in India (02:30 UTC = 08:00 IST). Also runnable by hand.
+    - cron: "30 2 * * 5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refresh public AI signals
+        run: python3 scripts/update_feed.py
+      - name: Commit refreshed signals
+        run: |
+          git config user.name "AI Signal Desk"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/updates.json feed.xml
+          git diff --cached --quiet || git commit -m "chore: refresh AI signals"
+          git push

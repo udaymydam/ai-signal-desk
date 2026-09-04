@@ -1,0 +1,19 @@
+name: Send monthly AI Signal Desk digest
+
+on:
+  schedule:
+    # First day of every month at 08:00 IST. Also runnable by hand.
+    - cron: "30 2 1 * *"
+  workflow_dispatch:
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Send digest through Resend
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          DIGEST_FROM: ${{ secrets.DIGEST_FROM }}
+          DIGEST_TO: ${{ secrets.DIGEST_TO }}
+        run: python3 scripts/send_digest.py
