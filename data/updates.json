@@ -1,5 +1,38 @@
 [
-  {"source":"EUROPEAN COMMISSION","date":"03 SEP 2026","title":"Apply AI Summit confirms a virtual conference platform","summary":"The 17 Nov summit will pair an on-site Brussels program with livestreamed sessions and an online AI ecosystem atlas."},
-  {"source":"EASA","date":"TODAY","title":"AI Days 2026 opens free online viewing","summary":"Remote attendees can follow the 9–10 Sep aviation AI program without enrolling, with a focus on safety and rulemaking."},
-  {"source":"NEURIPS","date":"JUL 2026","title":"Reproducibility gets an official track","summary":"MLRC 2026 is joining NeurIPS as an official track, a useful signal for teams that care about evaluation and durable systems."}
+  {
+    "source": "HUGGING FACE",
+    "date": "11 SEP 2026",
+    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+    "summary": ""
+  },
+  {
+    "source": "HUGGING FACE",
+    "date": "11 SEP 2026",
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "summary": ""
+  },
+  {
+    "source": "HUGGING FACE",
+    "date": "11 SEP 2026",
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "summary": ""
+  },
+  {
+    "source": "GOOGLE DEEPMIND",
+    "date": "11 SEP 2026",
+    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
+  },
+  {
+    "source": "GOOGLE DEEPMIND",
+    "date": "11 SEP 2026",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "summary": ""
+  },
+  {
+    "source": "GOOGLE DEEPMIND",
+    "date": "11 SEP 2026",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "summary": ""
+  }
 ]
