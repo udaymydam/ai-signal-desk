@@ -1,38 +1,38 @@
 [
   {
     "source": "HUGGING FACE",
-    "date": "11 SEP 2026",
+    "date": "18 SEP 2026",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "summary": ""
+  },
+  {
+    "source": "HUGGING FACE",
+    "date": "18 SEP 2026",
+    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "summary": ""
+  },
+  {
+    "source": "HUGGING FACE",
+    "date": "18 SEP 2026",
     "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
     "summary": ""
   },
   {
-    "source": "HUGGING FACE",
-    "date": "11 SEP 2026",
-    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-    "summary": ""
-  },
-  {
-    "source": "HUGGING FACE",
-    "date": "11 SEP 2026",
-    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "source": "GOOGLE DEEPMIND",
+    "date": "18 SEP 2026",
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
     "summary": ""
   },
   {
     "source": "GOOGLE DEEPMIND",
-    "date": "11 SEP 2026",
+    "date": "18 SEP 2026",
     "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
     "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
   },
   {
     "source": "GOOGLE DEEPMIND",
-    "date": "11 SEP 2026",
+    "date": "18 SEP 2026",
     "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-    "summary": ""
-  },
-  {
-    "source": "GOOGLE DEEPMIND",
-    "date": "11 SEP 2026",
-    "title": "Proactive cyber defense for governments and enterprises",
     "summary": ""
   }
 ]
