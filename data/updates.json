@@ -1,38 +1,20 @@
 [
   {
     "source": "HUGGING FACE",
-    "date": "18 SEP 2026",
-    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "date": "25 SEP 2026",
+    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
     "summary": ""
   },
   {
     "source": "HUGGING FACE",
-    "date": "18 SEP 2026",
-    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "date": "25 SEP 2026",
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
     "summary": ""
   },
   {
     "source": "HUGGING FACE",
-    "date": "18 SEP 2026",
-    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-    "summary": ""
-  },
-  {
-    "source": "GOOGLE DEEPMIND",
-    "date": "18 SEP 2026",
-    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "summary": ""
-  },
-  {
-    "source": "GOOGLE DEEPMIND",
-    "date": "18 SEP 2026",
-    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-    "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
-  },
-  {
-    "source": "GOOGLE DEEPMIND",
-    "date": "18 SEP 2026",
-    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "date": "25 SEP 2026",
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
     "summary": ""
   }
 ]
