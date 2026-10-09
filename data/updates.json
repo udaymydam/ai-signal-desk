@@ -1,38 +1,20 @@
 [
   {
     "source": "HUGGING FACE",
-    "date": "02 OCT 2026",
-    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "date": "09 OCT 2026",
+    "title": "The model that didn't exist, so you made it yourself",
     "summary": ""
   },
   {
     "source": "HUGGING FACE",
-    "date": "02 OCT 2026",
-    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "date": "09 OCT 2026",
+    "title": "Multimodal open d1 decision models for the edge",
     "summary": ""
   },
   {
     "source": "HUGGING FACE",
-    "date": "02 OCT 2026",
-    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-    "summary": ""
-  },
-  {
-    "source": "GOOGLE DEEPMIND",
-    "date": "02 OCT 2026",
-    "title": "Gemini 4 Argon: our next era of frontier intelligence",
-    "summary": ""
-  },
-  {
-    "source": "GOOGLE DEEPMIND",
-    "date": "02 OCT 2026",
-    "title": "Introducing SynthID Bio",
-    "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
-  },
-  {
-    "source": "GOOGLE DEEPMIND",
-    "date": "02 OCT 2026",
-    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "date": "09 OCT 2026",
+    "title": "Introducing Falcon ASR",
     "summary": ""
   }
 ]
