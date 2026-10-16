@@ -1,20 +1,38 @@
 [
   {
     "source": "HUGGING FACE",
-    "date": "09 OCT 2026",
-    "title": "The model that didn't exist, so you made it yourself",
+    "date": "16 OCT 2026",
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
     "summary": ""
   },
   {
     "source": "HUGGING FACE",
-    "date": "09 OCT 2026",
-    "title": "Multimodal open d1 decision models for the edge",
+    "date": "16 OCT 2026",
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
     "summary": ""
   },
   {
     "source": "HUGGING FACE",
-    "date": "09 OCT 2026",
-    "title": "Introducing Falcon ASR",
+    "date": "16 OCT 2026",
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "summary": ""
+  },
+  {
+    "source": "GOOGLE DEEPMIND",
+    "date": "16 OCT 2026",
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
+  },
+  {
+    "source": "GOOGLE DEEPMIND",
+    "date": "16 OCT 2026",
+    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
+  },
+  {
+    "source": "GOOGLE DEEPMIND",
+    "date": "16 OCT 2026",
+    "title": "Developing Gemini 4 Argon responsibly and safely",
     "summary": ""
   }
 ]
