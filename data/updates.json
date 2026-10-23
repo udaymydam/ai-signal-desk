@@ -1,38 +1,38 @@
 [
   {
     "source": "HUGGING FACE",
-    "date": "16 OCT 2026",
-    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "date": "23 OCT 2026",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
     "summary": ""
   },
   {
     "source": "HUGGING FACE",
-    "date": "16 OCT 2026",
-    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "date": "23 OCT 2026",
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
     "summary": ""
   },
   {
     "source": "HUGGING FACE",
-    "date": "16 OCT 2026",
-    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "date": "23 OCT 2026",
+    "title": "Ensemble forecasting with IBM Granite time-series models",
     "summary": ""
   },
   {
     "source": "GOOGLE DEEPMIND",
-    "date": "16 OCT 2026",
+    "date": "23 OCT 2026",
+    "title": "Beyond tree cover: mapping the world\u2019s forest types",
+    "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
+  },
+  {
+    "source": "GOOGLE DEEPMIND",
+    "date": "23 OCT 2026",
     "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
     "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
   },
   {
     "source": "GOOGLE DEEPMIND",
-    "date": "16 OCT 2026",
+    "date": "23 OCT 2026",
     "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
     "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
-  },
-  {
-    "source": "GOOGLE DEEPMIND",
-    "date": "16 OCT 2026",
-    "title": "Developing Gemini 4 Argon responsibly and safely",
-    "summary": ""
   }
 ]
