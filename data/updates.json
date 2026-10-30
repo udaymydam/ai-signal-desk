@@ -1,38 +1,38 @@
 [
   {
     "source": "HUGGING FACE",
-    "date": "23 OCT 2026",
-    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "date": "30 OCT 2026",
+    "title": "Granite Switch 4.1.1 \u2014 Update models like you update software",
     "summary": ""
   },
   {
     "source": "HUGGING FACE",
-    "date": "23 OCT 2026",
-    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "date": "30 OCT 2026",
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
     "summary": ""
   },
   {
     "source": "HUGGING FACE",
-    "date": "23 OCT 2026",
-    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "date": "30 OCT 2026",
+    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
     "summary": ""
   },
   {
     "source": "GOOGLE DEEPMIND",
-    "date": "23 OCT 2026",
+    "date": "30 OCT 2026",
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "summary": ""
+  },
+  {
+    "source": "GOOGLE DEEPMIND",
+    "date": "30 OCT 2026",
+    "title": "Genie 4: A new generation of world simulation",
+    "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation."
+  },
+  {
+    "source": "GOOGLE DEEPMIND",
+    "date": "30 OCT 2026",
     "title": "Beyond tree cover: mapping the world\u2019s forest types",
     "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
-  },
-  {
-    "source": "GOOGLE DEEPMIND",
-    "date": "23 OCT 2026",
-    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-    "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
-  },
-  {
-    "source": "GOOGLE DEEPMIND",
-    "date": "23 OCT 2026",
-    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
   }
 ]
