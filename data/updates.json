@@ -1,38 +1,20 @@
 [
   {
     "source": "HUGGING FACE",
-    "date": "06 NOV 2026",
-    "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+    "date": "13 NOV 2026",
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
     "summary": ""
   },
   {
     "source": "HUGGING FACE",
-    "date": "06 NOV 2026",
-    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "date": "13 NOV 2026",
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
     "summary": ""
   },
   {
     "source": "HUGGING FACE",
-    "date": "06 NOV 2026",
-    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "date": "13 NOV 2026",
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
     "summary": ""
-  },
-  {
-    "source": "GOOGLE DEEPMIND",
-    "date": "06 NOV 2026",
-    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-    "summary": ""
-  },
-  {
-    "source": "GOOGLE DEEPMIND",
-    "date": "06 NOV 2026",
-    "title": "Agentic cheminformatics with Google Antigravity",
-    "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
-  },
-  {
-    "source": "GOOGLE DEEPMIND",
-    "date": "06 NOV 2026",
-    "title": "Speeding up planning decisions with AI",
-    "summary": "Google DeepMind and UK government work together to reduce planning assessment times"
   }
 ]
