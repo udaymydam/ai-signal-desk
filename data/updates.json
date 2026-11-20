@@ -1,20 +1,38 @@
 [
   {
     "source": "HUGGING FACE",
-    "date": "13 NOV 2026",
-    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "date": "20 NOV 2026",
+    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
     "summary": ""
   },
   {
     "source": "HUGGING FACE",
-    "date": "13 NOV 2026",
-    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "date": "20 NOV 2026",
+    "title": "Why your fine-tuning job takes longer than the FLOPs say",
     "summary": ""
   },
   {
     "source": "HUGGING FACE",
-    "date": "13 NOV 2026",
-    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "date": "20 NOV 2026",
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "summary": ""
+  },
+  {
+    "source": "GOOGLE DEEPMIND",
+    "date": "20 NOV 2026",
+    "title": "Introducing Gemini 4 Neon",
+    "summary": ""
+  },
+  {
+    "source": "GOOGLE DEEPMIND",
+    "date": "20 NOV 2026",
+    "title": "Genie 4 is now available",
+    "summary": ""
+  },
+  {
+    "source": "GOOGLE DEEPMIND",
+    "date": "20 NOV 2026",
+    "title": "Introducing Gemini 4 Hydrogen",
     "summary": ""
   }
 ]
